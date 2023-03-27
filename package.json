@@ -1,0 +1,27 @@
+{
+  "name": "jsfundamentals",
+  "version": "1.0.0",
+  "description": "JS is a high level, object oriented, multi-paradigm programming language",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MegarajSelvam/JSFundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MegarajSelvam/JSFundamentals/issues"
+  },
+  "homepage": "https://github.com/MegarajSelvam/JSFundamentals#readme",
+  "dependencies": {
+    "leaflet": "^1.9.3",
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
